@@ -1,7 +1,7 @@
 # TJ-56-619-Recycle
 Recycling the TJ-56-619 kit from Aliexpress.
 
-![viber_image_2025-05-24_19-04-46-479](https://github.com/user-attachments/assets/c2bfc795-9342-40eb-b183-6b248a0fef89 =1000x1000)
+![](https://github.com/user-attachments/assets/c2bfc795-9342-40eb-b183-6b248a0fef89 =512x512)
 
 The kit itself uses the "Qweather" API, a Chinese weather service that isn't reliable enough. 
 Users have reported problems registering and using the service.
