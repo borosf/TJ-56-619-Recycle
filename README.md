@@ -18,7 +18,7 @@ The only things you need to edit to your personal use case are :
 
     Your Country Code in 2 letter format. (Simply Google "2 letter country codes")
 
-    Your Offset from GMT in seconds
+    Your Offset from GMT in seconds (GMT+1 = 3600)
 
 
 
